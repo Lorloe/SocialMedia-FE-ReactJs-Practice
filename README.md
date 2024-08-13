@@ -7,7 +7,8 @@
   - ### **Front-end**
     - SPA (Single Page Application) & CSR (Client Side Rendering) với ReactJS.
     - State Management Tool: Redux + Redux thunk.
-    - Xây dựng UI với Ant Design, Css, Scss.
+    - Xây dựng UI với Ant Css, Scss.
+    - Sử dụng Axios
 
   - ### **Tool For Work**
     - Git, Github.
